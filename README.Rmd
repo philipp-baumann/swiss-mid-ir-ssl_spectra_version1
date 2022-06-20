@@ -1,0 +1,10 @@
+---
+author: "Philipp Baumann ( philipp.baumann@bfh.ch | baumann-philipp@protonmail.com). ETH Zürich."
+date: "Last update: `r format(Sys.Date(), '%Y-%m-%d')`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
