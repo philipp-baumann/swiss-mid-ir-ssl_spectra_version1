@@ -1,5 +1,5 @@
 ---
-author: "Philipp Baumann ( philipp.baumann@bfh.ch | baumann-philipp@protonmail.com). The research data aquisition and modeling was done at ETH Zürich. The data and hands-on was compiled at the Kompetenzzentrum Boden."
+author: "Philipp Baumann ( philipp.baumann@bfh.ch | baumann-philipp@protonmail.com). The research data aquisition and modeling was done at ETH Zürich. The data and hands-on were compiled at the Kompetenzzentrum Boden."
 date: "Last update: `r format(Sys.Date(), '%Y-%m-%d')`"
 output: github_document
 ---
