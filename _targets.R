@@ -17,6 +17,5 @@ options(future.rng.onMisuse = "ignore")
 ## Each target list defines distinct but related task sets of
 ## the pipeline. Eeach list includes targets, R objects, and a recipe
 ## how to build them using functions (either low-level one in package
-## or a workflow-specific functions contained in .R files in the
+## or workflow-specific functions contained in .R files in the
 ## folder ./R)
-
