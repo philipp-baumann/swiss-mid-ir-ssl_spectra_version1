@@ -43,6 +43,11 @@ On MacOS, you can use
 brew install git-lfs
 ```
 
+On Windows, you can follow the instructions
+[here](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage),
+where you are referred to download and execute the `.exe` file provide
+[here](https://git-lfs.github.com/) (installer).
+
 To enable it for your local user, you need to only type once to activate
 LFS on your system:
 
