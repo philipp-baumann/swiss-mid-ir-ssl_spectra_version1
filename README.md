@@ -17,8 +17,10 @@ the Swiss mid-infrared soil spectral library for local estimation and
 monitoring. SOIL, 7(2), 525–546.
 <https://doi.org/10.5194/soil-7-525-2021>
 
-The associated laboratory analytical reference data needs to be
-requested from the [Swiss Soil Monitoring
+This work was done as a PhD project, in collaboration with the Swiss
+Soil Monitoring group (NABO) at Agroscope. The associated laboratory
+analytical reference data needs to be requested from the [Swiss Soil
+Monitoring
 (NABO)](https://www.agroscope.admin.ch/agroscope/en/home/topics/environment-resources/soil-bodies-water-nutrients/nabo.html)
 group at Agroscope.
 
@@ -45,7 +47,7 @@ brew install git-lfs
 
 On Windows, you can follow the instructions
 [here](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage),
-where you are referred to download and execute the `.exe` file provide
+where you are referred to download and execute the `.exe` file provided
 [here](https://git-lfs.github.com/) (installer).
 
 To enable it for your local user, you need to only type once to activate
