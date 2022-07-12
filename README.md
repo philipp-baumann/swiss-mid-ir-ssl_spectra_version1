@@ -1,14 +1,16 @@
 Philipp Baumann ( <philipp.baumann@bfh.ch> |
-<baumann-philipp@protonmail.com>). The research data aquisition and
-modeling was done at ETH Zürich. The data and hands-on were compiled at
-the Kompetenzzentrum Boden.
-Last update: 2022-07-11
+<baumann-philipp@protonmail.com>).
+Last update: 2022-07-12
 
 # Overview
 
 This repo shares the raw (binary), parsed and processed spectra used to
 develop the general models of the Swiss mid-infrared (mid-IR) soil
-spectral library (SSL) in version 1. This version comes along with this
+spectral library (SSL) in version 1. The spectral measurements and
+modeling were done at the [Sustainable Agroecosystems
+Group](https://sae.ethz.ch/) at ETH Zürich. The data and hands-on were
+compiled at the [Swiss Competence Center for Soils
+(KOBO)](https://ccsols.ch/). This version comes along with this
 open-access publication:
 
 Baumann, P., Helfenstein, A., Gubler, A., Keller, A., Meuli, R. G.,
@@ -56,3 +58,6 @@ LFS on your system:
 ``` bash
 git lfs install
 ```
+
+After this, you are ready to clone this repository, where git resolve
+and download all large files via LFS.
