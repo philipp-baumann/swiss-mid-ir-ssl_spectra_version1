@@ -10,20 +10,18 @@ spectral library (SSL) in version 1. The spectral measurements and
 modeling were done at the [Sustainable Agroecosystems
 Group](https://sae.ethz.ch/) at ETH Zürich. The data and hands-on were
 compiled at the [Swiss Competence Center for Soils
-(KOBO)](https://ccsols.ch/). This version comes along with this
-open-access publication:
+(KOBO)](https://ccsols.ch/). This work was done as a PhD project, in
+collaboration with the [Swiss Soil Monitoring group
+(NABO)](https://www.agroscope.admin.ch/agroscope/en/home/topics/environment-resources/soil-bodies-water-nutrients/nabo.html)
+at Agroscope. The associated laboratory analytical reference data needs
+to be requested from NABO.This version comes along with this open-access
+publication:
 
 Baumann, P., Helfenstein, A., Gubler, A., Keller, A., Meuli, R. G.,
 Wächter, D., Lee, J., Viscarra Rossel, R., & Six, J. (2021). Developing
 the Swiss mid-infrared soil spectral library for local estimation and
 monitoring. SOIL, 7(2), 525–546.
 <https://doi.org/10.5194/soil-7-525-2021>
-
-This work was done as a PhD project, in collaboration with the [Swiss
-Soil Monitoring group
-(NABO)](https://www.agroscope.admin.ch/agroscope/en/home/topics/environment-resources/soil-bodies-water-nutrients/nabo.html)
-at Agroscope. The associated laboratory analytical reference data needs
-to be requested from NABO.
 
 # How to fetch and use the data
 
