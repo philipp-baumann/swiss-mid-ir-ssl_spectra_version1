@@ -19,12 +19,11 @@ the Swiss mid-infrared soil spectral library for local estimation and
 monitoring. SOIL, 7(2), 525–546.
 <https://doi.org/10.5194/soil-7-525-2021>
 
-This work was done as a PhD project, in collaboration with the Swiss
-Soil Monitoring group (NABO) at Agroscope. The associated laboratory
-analytical reference data needs to be requested from the [Swiss Soil
-Monitoring
+This work was done as a PhD project, in collaboration with the [Swiss
+Soil Monitoring group
 (NABO)](https://www.agroscope.admin.ch/agroscope/en/home/topics/environment-resources/soil-bodies-water-nutrients/nabo.html)
-group at Agroscope.
+at Agroscope. The associated laboratory analytical reference data needs
+to be requested from NABO.
 
 # How to fetch and use the data
 
@@ -59,5 +58,5 @@ LFS on your system:
 git lfs install
 ```
 
-After this, you are ready to clone this repository, where git resolve
-and download all large files via LFS.
+After this, you are ready to clone this repository, whereby git will
+resolve and download all large files via LFS.
